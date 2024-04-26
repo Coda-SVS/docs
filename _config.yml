@@ -1,10 +1,10 @@
-title: Kor-SVS 문서
-description: 한국어 음성합성에 대한 참고문서
+title: Coda 문서
+description: Coda팀에서 제공하는 음성합성에 대한 참고문서
 theme: just-the-docs
 
-url: https://kor-svs.github.io/docs/
+url: https://coda-svs.github.io/docs/
 
 color_scheme: dark
 
 aux_links:
-    Template Repository: https://github.com/Kor-SVS/docs
+    Template Repository: https://github.com/Coda-SVS/docs
